@@ -14,7 +14,7 @@ if option1 is better, we output to the user "Option 1 is better"
 if option2 is better, we output to the user "Option 2 is better"
 """
 
-""""
+"""
 
 # option1
     return 100 * 10
